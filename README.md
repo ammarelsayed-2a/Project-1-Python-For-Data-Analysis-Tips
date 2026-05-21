@@ -45,8 +45,8 @@ Explore and understand the dataset through statistical summaries and visualizati
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/YOUR_USERNAME/Project-1-Python-For-Data-Analysis-Tips.git
-cd Project-1-Python-For-Data-Analysis-Tips
+git clone https://github.com/ammarelsayed-2a/Project-1-Python-For-Data-Analysis-Tips-.git
+cd Project-1-Python-For-Data-Analysis-Tips-
 jupyter notebook "Project 1 Tips.ipynb"
 ```
 
