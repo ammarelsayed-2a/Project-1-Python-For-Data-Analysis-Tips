@@ -1,3 +1,6 @@
+# Project-1-Python-For-Data-Analysis-Tips
+End-to-end EDA project on the Seaborn Tips dataset | Analyzing restaurant tipping patterns using Python, Pandas, Matplotlib & Seaborn
+
 # 🔍 Exploratory Data Analysis — Tips Dataset
 
 A structured EDA project on the built-in Seaborn `tips` dataset, completed as part of the **Python for Data Analysis** course.
